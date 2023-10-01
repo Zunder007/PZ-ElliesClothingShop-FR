@@ -1,6 +1,8 @@
 ItemName_FR = {
 	ItemName_ElliesClothingShop.Micro_Shorts = "Micro Shorts",
 	ItemName_ElliesClothingShop.Mini_dress_Belly_Cut = "Mini robe à découpe ventrale",
+	ItemName_ElliesClothingShop.Mini_dress_U_Cut = "Mini robe coupe U",
+	ItemName_ElliesClothingShop.Mini_dress_V_Cut = "Mini robe coupe V",
 	ItemName_ElliesClothingShop.Bra_Strapless_Lace = "Soutien-gorge en dentelle sans bretelles",
 	ItemName_ElliesClothingShop.Body_Fishnets = "Combinaison résille",
 	ItemName_ElliesClothingShop.Bra_Straps_Lace = "Soutien-gorge en dentelle avec bretelles",
