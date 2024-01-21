@@ -20,4 +20,9 @@ ItemName_FR = {
 	ItemName_ElliesClothingShop.WedgedHeels = "Talons compensés",
 	ItemName_ElliesClothingShop.Demonias = "Botte gothique Démonias",
 	ItemName_ElliesClothingShop.ElliesDemonias = "Botte gothique Démonias d'Ellie",
+	ItemName_ElliesClothingShop.Skirt_Mini_Cloth = "Mini-jupe moulante",
+	ItemName_ElliesClothingShop.Skirt_Mini_Denim = "Mini-jupe moulante en jean",
+	ItemName_ElliesClothingShop.Skirt_Mini_Leather = "Mini-jupe moulante en cuir",
+	ItemName_ElliesClothingShop.TNeckDress_Mini_Cloth = "Robe courte à col",
+	ItemName_ElliesClothingShop.TubeDress_Mini_Cloth = "Mini Robe Tube",
 }
