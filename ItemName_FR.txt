@@ -30,6 +30,6 @@ ItemName_FR = {
 	ItemName_ElliesClothingShop.CroppedHoodie_DownWhite = "Sweat à capuche demi-coupe",
 	ItemName_ElliesClothingShop.CroppedHoodie_UpOPENWhite = "Sweat à capuche demi-coupe",
 	ItemName_ElliesClothingShop.CroppedHoodie_UpWhite = "Sweat à capuche demi-coupe",
-	ItemName_ElliesClothingShop.Shoe_Platform = "Talons hauts compensés",
-	ItemName_ElliesClothingShop.Shoe_StilettoHeels = "Talons aiguilles",
+	ItemName_ElliesClothingShop.Shoe_Platform = "Chaussure à talons hauts compensés",
+	ItemName_ElliesClothingShop.Shoe_StilettoHeels = "Chaussure à talons aiguilles",
 }
