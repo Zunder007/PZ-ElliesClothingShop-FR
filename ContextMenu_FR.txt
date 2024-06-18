@@ -1,0 +1,6 @@
+ContextMenu_FR = {
+	ContextMenu_OHU = "Ouvert, capuche relevée",
+	ContextMenu_OHD = "Ouvert, capuche baissée",
+	ContextMenu_CHU = "Fermer, capuche relevée"
+	ContextMenu_CHD = "Fermer, capuche baissée",
+}
