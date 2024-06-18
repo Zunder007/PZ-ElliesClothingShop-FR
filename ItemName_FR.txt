@@ -25,4 +25,11 @@ ItemName_FR = {
 	ItemName_ElliesClothingShop.Skirt_Mini_Leather = "Mini-jupe moulante en cuir",
 	ItemName_ElliesClothingShop.TNeckDress_Mini_Cloth = "Robe courte à col",
 	ItemName_ElliesClothingShop.TubeDress_Mini_Cloth = "Mini Robe Tube",
+
+	ItemName_ElliesClothingShop.CroppedHoodie_DownOPENWhite = "Sweat à capuche demi-coupe",
+	ItemName_ElliesClothingShop.CroppedHoodie_DownWhite = "Sweat à capuche demi-coupe",
+	ItemName_ElliesClothingShop.CroppedHoodie_UpOPENWhite = "Sweat à capuche demi-coupe",
+	ItemName_ElliesClothingShop.CroppedHoodie_UpWhite = "Sweat à capuche demi-coupe",
+	ItemName_ElliesClothingShop.Shoe_Platform = "Talons hauts compensés",
+	ItemName_ElliesClothingShop.Shoe_StilettoHeels = "Talons aiguilles",
 }
